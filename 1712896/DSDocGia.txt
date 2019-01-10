@@ -1,0 +1,60 @@
+
+pham hoai nam
+khoa hoc tu nhien
+1712456
+phieu001
+25/12/2018
+30/12/2018
+1
+dac nhan tam
+sach004
+tieng viet
+le thanh vu
+khxhnv
+15987456
+phieu002
+2/1/2019
+10/1/2019
+2
+tuoi tho du doi
+sach008
+tieng viet
+dac nhan tam
+sach004
+tieng viet
+nguyen ngoc anh
+khtn
+1712789
+phieu003
+5/1/2019
+10/1/2019
+2
+nha gia kim
+sach001
+tieng viet
+the little prince
+sach002
+ngoai van
+van thi ha my
+bach khoa
+13265478
+phieu004
+2/1/2019
+11/1/2019
+1
+harry potter
+sach007
+ngoai van
+tran binh an
+kt luat
+14456789
+phieu005
+20/12/2018
+28/12/2018
+2
+the faultin our stars
+sach005
+ngoai van
+khuyen hoc
+sach003
+tieng viet

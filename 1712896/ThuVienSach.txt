@@ -1,0 +1,89 @@
+
+sach001
+2518407786529
+nha gia kim
+paulo coelho
+nxb van hoc
+tieu thuyet
+tieng viet
+3
+sach002
+2304994675045
+the little prince
+antoine de saint-exupery
+wordsworth editions ltd
+tieu thuyet
+ngoai van
+2
+sach003
+2510701137038
+khuyen hoc
+fukuzawa yukichi
+nxb the gioi
+ky nang
+tieng viet
+4
+sach004
+2436661537384
+dac nhan tam
+dale carnegie
+nxb tong hop tp.hcm
+ky nang
+tieng viet
+2
+sach005
+2305236812167
+the faultin our stars
+john green
+penguin random house US
+tieu thuyet
+ngoai van
+2
+sach006
+252181275199
+chuyen con meo day hai au bay
+luis sepulveda
+nxb hoi nha van
+truyen dai
+tieng viet
+3
+sach007
+2308469696542
+harry potter
+j.k.rowling
+bloomsbury
+tieu thuyet
+ngoai van
+2
+sach008
+2525435183121
+tuoi tho im lang
+duy khan
+nxb kim dong
+tieu thuyet
+tieng viet
+3
+sach009
+2430502722588
+di tim le song
+viktor emil frankl
+nxb tong hop tp.hcm
+ky nang
+tieng viet
+2
+sach010
+2514250946523
+chuc mot ngay tot lanh
+nguyen nhat anh
+nxb tre
+truyen dai
+tieng viet
+5
+sach011
+2529327905723
+de men phieu luu ky
+to hoai
+nxb kim dong
+truyen dai
+tieng viet
+4
